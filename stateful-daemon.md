@@ -79,7 +79,7 @@ kubectl label node <node-name> dedicated=monitoring
 ## 🧱 14 - StatefulSet in Kubernetes
 ---
 
-### 📌 What is a StatefulSet?
+ 📌 What is a StatefulSet?
 
 A **StatefulSet** is a Kubernetes controller used to manage **stateful applications**. It ensures that Pods:
 
